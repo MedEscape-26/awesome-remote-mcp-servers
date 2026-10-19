@@ -1090,6 +1090,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Firedrill](https://firedrill.run/agents) `https://mcp.firedrill.run/mcp`
   [![Firedrill MCP connector](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill)
   🔐 - Prepare AI agent simulations, scenarios and synthetic tools, and inspect saved outcomes and evidence. Free to use.
+- [Footgun](https://getfootgun.com) `https://getfootgun.com/api/mcp`
+  [![Footgun MCP connector](https://glama.ai/mcp/connectors/com.getfootgun/footgun/badges/score.svg)](https://glama.ai/mcp/connectors/com.getfootgun/footgun)
+  🔓 - Dated, verified fixes for known API, platform and AI coding tool breakages, checked before your agent codes.
 - [Formhaus Cloud](https://formhaus.dev) `https://api.formhaus.dev/mcp/account`
   [![Formhaus Cloud MCP connector](https://glama.ai/mcp/connectors/dev.formhaus.api/formhaus-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/dev.formhaus.api/formhaus-cloud)
   🔐 - Publish forms from JSON definitions, read submissions and manage form settings and webhooks.
